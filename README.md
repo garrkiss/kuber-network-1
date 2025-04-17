@@ -10,7 +10,7 @@
 
 ## Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
 
-- [Манифест Deployment](https://github.com/garrkiss/kuber-app/blob/main/manifest/nginx-deployment.yaml)
-- [Манифест Service](https://github.com/garrkiss/kuber-app/blob/main/manifest/svc-nginx.yaml)
+- [Манифест Deployment](https://github.com/garrkiss/kuber-network-1/blob/main/manifest/nginx-multitool-deployment.yaml)
+- [Манифест Service](https://github.com/garrkiss/kuber-network-1/blob/main/manifest/svc-nginx.yaml)
 
-![Ссылка](https://github.com/garrkiss/kuber-app/blob/main/img/3.png)
+![Ссылка](https://github.com/garrkiss/kuber-network-1/blob/main/img/2.png)
