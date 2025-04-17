@@ -2,15 +2,11 @@
 
 ## Задание 1. Создать Deployment и обеспечить доступ к контейнерам приложения по разным портам из другого Pod внутри кластера
 
-
 - [Манифест Deployment](https://github.com/garrkiss/kuber-network-1/blob/main/manifest/nginx-multitool-deployment.yaml)
 - [Манифест Service](https://github.com/garrkiss/kuber-network-1/blob/main/manifest/svc-nginx-multitool.yaml)
 - [Манифест Pod](https://github.com/garrkiss/kuber-network-1/blob/main/manifest/pod-multitool.yaml)
 
 ![Ссылка](https://github.com/garrkiss/kuber-network-1/blob/main/img/1.png)
-
-### Проверка доступности из отдельного пода multitool
-![Ссылка](https://github.com/garrkiss/kuber-app/blob/main/img/2.png)
 
 ## Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
 
